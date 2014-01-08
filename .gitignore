@@ -4,3 +4,9 @@ dist/
 log/
 *.iml
 *.log
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
